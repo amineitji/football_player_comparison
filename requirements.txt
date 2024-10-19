@@ -1,0 +1,7 @@
+beautifulsoup4==4.12.3 
+requests==2.32.3 
+regex==2024.9.11 
+pandas==2.2.3 
+lxml==5.3.0 
+matplotlib==3.9.2 
+scikit-learn==1.5.2
